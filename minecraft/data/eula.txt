@@ -1,0 +1,4 @@
+# Generated via Docker
+# Sun May 25 06:20:21 PM UTC 2025
+eula=true
+

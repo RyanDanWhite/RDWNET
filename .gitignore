@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.db
+*.log
+.venv/
+homeassistant/config/.storage/
+homeassistant/home-assistant.log
+homeassistant/home-assistant_v2.db

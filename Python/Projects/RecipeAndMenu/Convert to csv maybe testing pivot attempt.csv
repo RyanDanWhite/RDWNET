@@ -1,0 +1,3 @@
+recipe_title,recipe_description,recipe_image,recipe_image_alt_text,recipe_author,recipe_category,recipe_cuisine,recipe_calories,serving_size,cook_time,prep_time,recipe_note,recipe_tags,recipe_ingredients,recipe_directions
+My cookie recipe!,,,Test alt text!,Ryan White,Dessert,,150,4 servings,25,25,Recipe note here!,"Vegetarian, dessert, cookies",HEAD: Cookies;1 cup of flour;2 cups of chocolate;1 egg,HEAD: For Cookies; Preheat oven; Cook cookies;Eat cookies
+My pie recipe!,,,A different alt text for the pie image!,Ryan White,Dessert,,245,2 servings,35,23,Recipe note here!,"Vegetarian, dessert, pie",HEAD: Pie;1 cup of flour;2 cups of chocolate;1 egg,HEAD: For Pie; Preheat oven; Cook pie; Eat pie
