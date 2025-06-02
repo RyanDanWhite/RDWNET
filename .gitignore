@@ -6,3 +6,4 @@ __pycache__/
 homeassistant/config/.storage/
 homeassistant/home-assistant.log
 homeassistant/home-assistant_v2.db
+homeassistant/config/home-assistant_v2.db*
