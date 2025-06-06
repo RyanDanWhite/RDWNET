@@ -113,7 +113,7 @@ You’ll want a clean development environment with the right libraries preinstal
 ### **2. Structuring the Project**
 A clean directory structure will help organize everything efficiently:
 ```
-/algo_trading_project
+/SecuritiesTrading Algo Bot
 ├── data/               # Market data storage
 ├── strategies/         # Strategy scripts
 ├── models/             # ML predictive models (optional)
@@ -121,7 +121,7 @@ A clean directory structure will help organize everything efficiently:
 ├── backtesting/        # Backtest scripts
 ├── execution/          # Live trading execution
 ├── config.py           # API keys & settings
-├── main.py             # Main script for orchestrating trades
+├── tradingdashboard.py             # Main script for orchestrating trades
 ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
 ```
