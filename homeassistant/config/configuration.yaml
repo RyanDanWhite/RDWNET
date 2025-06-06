@@ -9,3 +9,7 @@ frontend:
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+
+homeassistant:
+# external_url: "https://your-external-url.com"
+  internal_url: "http://Home-Assistant.local:8123"
