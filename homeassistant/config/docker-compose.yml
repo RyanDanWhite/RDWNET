@@ -1,0 +1,12 @@
+version: : "3.8"
+services:
+  homeassistant:
+    container_name: homeassistant
+    image: ghcr.io/home-assistant/home-assistant:stable
+    volumes:
+      - ./config:/config
+    environment:
+      - TZ=America/Detroit
+    network_mode: host
+    restart: unless-stopped
+    user: "${UID}:${GID}"   # Ensures files are created with your user permissions
