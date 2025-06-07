@@ -12,7 +12,7 @@ scene: !include scenes.yaml
 sensor: !include sensors.yaml
 
 homeassistant:
-# external_url: "https://your-external-url.com"
-  internal_url: "http://Home-Assistant.local:8123"
+  external_url: "https://rdwnet.duckdns.org:8123"
+  internal_url: "http://192.168.4.54:8123"  # Replace with your Home Assistant server's local IP
   time_zone: "America/Detroit"
   unit_system: imperial
