@@ -4,24 +4,214 @@
   "key": "core.restore_state",
   "data": [
     {
-      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-06-10T21:39:52.682075+00:00","last_reported":"2025-06-10T21:39:52.682075+00:00","last_updated":"2025-06-10T21:39:52.682075+00:00","context":{"id":"01JXDWJ3QA34XRBMAK7QCY4KYP","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-06-10T22:11:12.969795+00:00","last_reported":"2025-06-10T22:11:12.969795+00:00","last_updated":"2025-06-10T22:11:12.969795+00:00","context":{"id":"01JXDYBFY95V0JJB7TNJZ24GAR","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
     },
     {
-      "state": {"entity_id":"person.ryan_white","state":"unknown","attributes":{"editable":true,"id":"ryan_white","device_trackers":[],"user_id":"34f43e9f2f0c42c68a6b943b149319ec","friendly_name":" Ryan White"},"last_changed":"2025-06-10T21:44:20.126875+00:00","last_reported":"2025-06-10T21:44:20.127096+00:00","last_updated":"2025-06-10T21:44:20.126875+00:00","context":{"id":"01JXDWT8WYQ3KD4NFFWMYGYTGF","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.ryan_white","state":"unknown","attributes":{"editable":true,"id":"ryan_white","device_trackers":[],"source":"person.ryan_white","user_id":"34f43e9f2f0c42c68a6b943b149319ec","friendly_name":" Ryan White"},"last_changed":"2025-06-10T22:11:13.514225+00:00","last_reported":"2025-06-10T22:11:13.514225+00:00","last_updated":"2025-06-10T22:11:13.514225+00:00","context":{"id":"01JXDYBGFAJ77AX8E73BFX1SPB","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
     },
     {
-      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-06-10T21:44:41.143788+00:00","last_reported":"2025-06-10T21:44:41.143907+00:00","last_updated":"2025-06-10T21:44:41.143788+00:00","context":{"id":"01JXDWTXDQPRBMRANZ2MA4ZNN3","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.opal_white","state":"unknown","attributes":{"editable":true,"id":"opal_white","device_trackers":[],"source":"person.opal_white","user_id":"c043ee9bd52f4a419deedf997bc707a4","friendly_name":"Opal White"},"last_changed":"2025-06-10T22:11:13.514537+00:00","last_reported":"2025-06-10T22:11:13.514537+00:00","last_updated":"2025-06-10T22:11:13.514537+00:00","context":{"id":"01JXDYBGFANQ8XV505BGSV728Y","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
     },
     {
-      "state": {"entity_id":"person.opal_white","state":"unknown","attributes":{"editable":true,"id":"opal_white","device_trackers":[],"user_id":"c043ee9bd52f4a419deedf997bc707a4","friendly_name":"Opal White"},"last_changed":"2025-06-10T21:45:51.880013+00:00","last_reported":"2025-06-10T21:45:51.880301+00:00","last_updated":"2025-06-10T21:45:51.880013+00:00","context":{"id":"01JXDWX2G8J89C6432D8DR4R7Z","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"scene.1st_floor_hallway_nightlight","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"1st floor Hallway Nightlight"},"last_changed":"2025-06-10T22:11:14.804477+00:00","last_reported":"2025-06-10T22:11:14.804477+00:00","last_updated":"2025-06-10T22:11:14.804477+00:00","context":{"id":"01JXDYBHQMZHB4KCWZ00AQQY40","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_read","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Read","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"1st floor Hallway Read"},"last_changed":"2025-06-10T22:11:14.804680+00:00","last_reported":"2025-06-10T22:11:14.804680+00:00","last_updated":"2025-06-10T22:11:14.804680+00:00","context":{"id":"01JXDYBHQMWW9P8N4SGZ7F1Z69","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.office_bright","state":"unknown","attributes":{"group_name":"Office","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Office Bright"},"last_changed":"2025-06-10T22:11:14.804867+00:00","last_reported":"2025-06-10T22:11:14.804867+00:00","last_updated":"2025-06-10T22:11:14.804867+00:00","context":{"id":"01JXDYBHQMH1NZ0VMYYXEBMKKP","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_spring_blossom","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Spring blossom","speed":0.5595238095238095,"brightness":207,"is_dynamic":true,"friendly_name":"1st floor Hallway Spring blossom"},"last_changed":"2025-06-10T22:11:14.805052+00:00","last_reported":"2025-06-10T22:11:14.805052+00:00","last_updated":"2025-06-10T22:11:14.805052+00:00","context":{"id":"01JXDYBHQNQSCBPFCSXQRCMRXM","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.kitchen_bright","state":"unknown","attributes":{"group_name":"Kitchen","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Kitchen Bright"},"last_changed":"2025-06-10T22:11:14.805485+00:00","last_reported":"2025-06-10T22:11:14.805485+00:00","last_updated":"2025-06-10T22:11:14.805485+00:00","context":{"id":"01JXDYBHQNBKSZ86XTBZ6N3JE3","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_spring_blossom","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Spring blossom","speed":0.5595238095238095,"brightness":207,"is_dynamic":true,"friendly_name":"Front Porch Spring blossom"},"last_changed":"2025-06-10T22:11:14.805679+00:00","last_reported":"2025-06-10T22:11:14.805679+00:00","last_updated":"2025-06-10T22:11:14.805679+00:00","context":{"id":"01JXDYBHQNMVE1QEBFFM9M2MVR","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_tropical_twilight","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Tropical twilight","speed":0.6388888888888888,"brightness":186,"is_dynamic":true,"friendly_name":"Front Porch Tropical twilight"},"last_changed":"2025-06-10T22:11:14.805855+00:00","last_reported":"2025-06-10T22:11:14.805855+00:00","last_updated":"2025-06-10T22:11:14.805855+00:00","context":{"id":"01JXDYBHQNS0CJQS041Z58HY0B","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_bright","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Front Porch Bright"},"last_changed":"2025-06-10T22:11:14.806030+00:00","last_reported":"2025-06-10T22:11:14.806030+00:00","last_updated":"2025-06-10T22:11:14.806030+00:00","context":{"id":"01JXDYBHQPHNM691FY4EEWPZZP","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_concentrate","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Concentrate","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Front Porch Concentrate"},"last_changed":"2025-06-10T22:11:14.806201+00:00","last_reported":"2025-06-10T22:11:14.806201+00:00","last_updated":"2025-06-10T22:11:14.806201+00:00","context":{"id":"01JXDYBHQP3NX9TBS6YXFM4GS7","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.bedroom_dimmed","state":"unknown","attributes":{"group_name":"Bedroom","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Bedroom Dimmed"},"last_changed":"2025-06-10T22:11:14.806376+00:00","last_reported":"2025-06-10T22:11:14.806376+00:00","last_updated":"2025-06-10T22:11:14.806376+00:00","context":{"id":"01JXDYBHQPJ2ZBNEDF7SDE0M03","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_tropical_twilight","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Tropical twilight","speed":0.6388888888888888,"brightness":111,"is_dynamic":true,"friendly_name":"1st floor Hallway Tropical twilight"},"last_changed":"2025-06-10T22:11:14.806549+00:00","last_reported":"2025-06-10T22:11:14.806549+00:00","last_updated":"2025-06-10T22:11:14.806549+00:00","context":{"id":"01JXDYBHQPE4BKGB3MQRMHMQDJ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_savanna_sunset","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Savanna sunset","speed":0.6190476190476191,"brightness":206,"is_dynamic":true,"friendly_name":"Front Porch Savanna sunset"},"last_changed":"2025-06-10T22:11:14.806726+00:00","last_reported":"2025-06-10T22:11:14.806726+00:00","last_updated":"2025-06-10T22:11:14.806726+00:00","context":{"id":"01JXDYBHQPMCDZZP3GETKWMDY1","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_energize","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Energize","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"1st floor Hallway Energize"},"last_changed":"2025-06-10T22:11:14.806896+00:00","last_reported":"2025-06-10T22:11:14.806896+00:00","last_updated":"2025-06-10T22:11:14.806896+00:00","context":{"id":"01JXDYBHQP626HJT5973QWD0MD","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.kitchen_dimmed","state":"unknown","attributes":{"group_name":"Kitchen","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Kitchen Dimmed"},"last_changed":"2025-06-10T22:11:14.807068+00:00","last_reported":"2025-06-10T22:11:14.807068+00:00","last_updated":"2025-06-10T22:11:14.807068+00:00","context":{"id":"01JXDYBHQQDETMYX4PKSH9B46F","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.bedroom_nightlight","state":"unknown","attributes":{"group_name":"Bedroom","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Bedroom Nightlight"},"last_changed":"2025-06-10T22:11:14.807259+00:00","last_reported":"2025-06-10T22:11:14.807259+00:00","last_updated":"2025-06-10T22:11:14.807259+00:00","context":{"id":"01JXDYBHQQJ6KD495AKSJAFD78","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.bedroom_bright","state":"unknown","attributes":{"group_name":"Bedroom","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Bedroom Bright"},"last_changed":"2025-06-10T22:11:14.807434+00:00","last_reported":"2025-06-10T22:11:14.807434+00:00","last_updated":"2025-06-10T22:11:14.807434+00:00","context":{"id":"01JXDYBHQQYSWA2JHXF761K5K5","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.living_room_bright","state":"unknown","attributes":{"group_name":"Living room","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Living room Bright"},"last_changed":"2025-06-10T22:11:14.807627+00:00","last_reported":"2025-06-10T22:11:14.807627+00:00","last_updated":"2025-06-10T22:11:14.807627+00:00","context":{"id":"01JXDYBHQQ4SKAJFXGQHKMT8E2","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.foyer_bright","state":"unknown","attributes":{"group_name":"Foyer","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Foyer Bright"},"last_changed":"2025-06-10T22:11:14.807817+00:00","last_reported":"2025-06-10T22:11:14.807817+00:00","last_updated":"2025-06-10T22:11:14.807817+00:00","context":{"id":"01JXDYBHQQB94MRDRP1HREGZH0","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.foyer_nightlight","state":"unknown","attributes":{"group_name":"Foyer","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Foyer Nightlight"},"last_changed":"2025-06-10T22:11:14.807984+00:00","last_reported":"2025-06-10T22:11:14.807984+00:00","last_updated":"2025-06-10T22:11:14.807984+00:00","context":{"id":"01JXDYBHQQ5XFM2P08KPBZQNVM","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_concentrate","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Concentrate","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"1st floor Hallway Concentrate"},"last_changed":"2025-06-10T22:11:14.808150+00:00","last_reported":"2025-06-10T22:11:14.808150+00:00","last_updated":"2025-06-10T22:11:14.808150+00:00","context":{"id":"01JXDYBHQRJX1SM4PCFFTTNYW9","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_bright","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Bright","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"1st floor Hallway Bright"},"last_changed":"2025-06-10T22:11:14.808319+00:00","last_reported":"2025-06-10T22:11:14.808319+00:00","last_updated":"2025-06-10T22:11:14.808319+00:00","context":{"id":"01JXDYBHQR9PEFBF7403CQZG6X","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.living_room_nightlight","state":"unknown","attributes":{"group_name":"Living room","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Living room Nightlight"},"last_changed":"2025-06-10T22:11:14.808488+00:00","last_reported":"2025-06-10T22:11:14.808488+00:00","last_updated":"2025-06-10T22:11:14.808488+00:00","context":{"id":"01JXDYBHQRSH8H09MK2GB5715A","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_dimmed","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Front Porch Dimmed"},"last_changed":"2025-06-10T22:11:14.808661+00:00","last_reported":"2025-06-10T22:11:14.808661+00:00","last_updated":"2025-06-10T22:11:14.808661+00:00","context":{"id":"01JXDYBHQRHA16GVR294J9EZVV","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.kitchen_nightlight","state":"unknown","attributes":{"group_name":"Kitchen","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Kitchen Nightlight"},"last_changed":"2025-06-10T22:11:14.808827+00:00","last_reported":"2025-06-10T22:11:14.808827+00:00","last_updated":"2025-06-10T22:11:14.808827+00:00","context":{"id":"01JXDYBHQRDGWE05PB0HX6Q7S3","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_relax","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Relax","speed":0.5,"brightness":144,"is_dynamic":false,"friendly_name":"Front Porch Relax"},"last_changed":"2025-06-10T22:11:14.808996+00:00","last_reported":"2025-06-10T22:11:14.808996+00:00","last_updated":"2025-06-10T22:11:14.808996+00:00","context":{"id":"01JXDYBHQRASXN468PTW44DYKQ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_relax","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Relax","speed":0.5,"brightness":144,"is_dynamic":false,"friendly_name":"1st floor Hallway Relax"},"last_changed":"2025-06-10T22:11:14.809282+00:00","last_reported":"2025-06-10T22:11:14.809282+00:00","last_updated":"2025-06-10T22:11:14.809282+00:00","context":{"id":"01JXDYBHQS2D9E0BH5E6RSVRDN","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.living_room_dimmed","state":"unknown","attributes":{"group_name":"Living room","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Living room Dimmed"},"last_changed":"2025-06-10T22:11:14.809453+00:00","last_reported":"2025-06-10T22:11:14.809453+00:00","last_updated":"2025-06-10T22:11:14.809453+00:00","context":{"id":"01JXDYBHQSQ0T89J7BR5VMW5DJ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.office_dimmed","state":"unknown","attributes":{"group_name":"Office","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Office Dimmed"},"last_changed":"2025-06-10T22:11:14.809628+00:00","last_reported":"2025-06-10T22:11:14.809628+00:00","last_updated":"2025-06-10T22:11:14.809628+00:00","context":{"id":"01JXDYBHQS8Q5PDWC9096YKZ9D","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_arctic_aurora","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Arctic aurora","speed":0.6388888888888888,"brightness":78,"is_dynamic":true,"friendly_name":"Front Porch Arctic aurora"},"last_changed":"2025-06-10T22:11:14.809799+00:00","last_reported":"2025-06-10T22:11:14.809799+00:00","last_updated":"2025-06-10T22:11:14.809799+00:00","context":{"id":"01JXDYBHQSEHZTNRYJJKHV8YDH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_read","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Read","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Front Porch Read"},"last_changed":"2025-06-10T22:11:14.809976+00:00","last_reported":"2025-06-10T22:11:14.809976+00:00","last_updated":"2025-06-10T22:11:14.809976+00:00","context":{"id":"01JXDYBHQS9949V9VS3BAQ87XX","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.office_nightlight","state":"unknown","attributes":{"group_name":"Office","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Office Nightlight"},"last_changed":"2025-06-10T22:11:14.810149+00:00","last_reported":"2025-06-10T22:11:14.810149+00:00","last_updated":"2025-06-10T22:11:14.810149+00:00","context":{"id":"01JXDYBHQTAWS00DHZVSNR93EG","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.foyer_dimmed","state":"unknown","attributes":{"group_name":"Foyer","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"Foyer Dimmed"},"last_changed":"2025-06-10T22:11:14.810317+00:00","last_reported":"2025-06-10T22:11:14.810317+00:00","last_updated":"2025-06-10T22:11:14.810317+00:00","context":{"id":"01JXDYBHQT56NVFTH3TZNBCCX3","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_dimmed","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Dimmed","speed":0.5,"brightness":77,"is_dynamic":false,"friendly_name":"1st floor Hallway Dimmed"},"last_changed":"2025-06-10T22:11:14.810528+00:00","last_reported":"2025-06-10T22:11:14.810528+00:00","last_updated":"2025-06-10T22:11:14.810528+00:00","context":{"id":"01JXDYBHQTDFN76C2X52ZDXDP8","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_nightlight","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Nightlight","speed":0.5,"brightness":0,"is_dynamic":false,"friendly_name":"Front Porch Nightlight"},"last_changed":"2025-06-10T22:11:14.810723+00:00","last_reported":"2025-06-10T22:11:14.810723+00:00","last_updated":"2025-06-10T22:11:14.810723+00:00","context":{"id":"01JXDYBHQTCXSGXWFSBY0SJ2SC","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.front_porch_energize","state":"unknown","attributes":{"group_name":"Front Porch","group_type":"room","name":"Energize","speed":0.5,"brightness":255,"is_dynamic":false,"friendly_name":"Front Porch Energize"},"last_changed":"2025-06-10T22:11:14.810890+00:00","last_reported":"2025-06-10T22:11:14.810890+00:00","last_updated":"2025-06-10T22:11:14.810890+00:00","context":{"id":"01JXDYBHQTX5WAN37PPPJK4PP6","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_savanna_sunset","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Savanna sunset","speed":0.6190476190476191,"brightness":206,"is_dynamic":true,"friendly_name":"1st floor Hallway Savanna sunset"},"last_changed":"2025-06-10T22:11:14.811058+00:00","last_reported":"2025-06-10T22:11:14.811058+00:00","last_updated":"2025-06-10T22:11:14.811058+00:00","context":{"id":"01JXDYBHQV9RDQ8VDMH3WACDRB","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"scene.1st_floor_hallway_arctic_aurora","state":"unknown","attributes":{"group_name":"1st floor Hallway","group_type":"room","name":"Arctic aurora","speed":0.6388888888888888,"brightness":78,"is_dynamic":true,"friendly_name":"1st floor Hallway Arctic aurora"},"last_changed":"2025-06-10T22:11:14.811227+00:00","last_reported":"2025-06-10T22:11:14.811227+00:00","last_updated":"2025-06-10T22:11:14.811227+00:00","context":{"id":"01JXDYBHQVXHQPR7C1Y47ACSN0","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-06-10T22:11:14.857352+00:00","last_reported":"2025-06-10T22:11:14.857352+00:00","last_updated":"2025-06-10T22:11:14.857352+00:00","context":{"id":"01JXDYBHS9JRH8CS2PKANEP243","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
+    },
+    {
+      "state": {"entity_id":"update.rdwnet_reolink_hub_firmware","state":"on","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v3.3.0.333_24071209","in_progress":false,"latest_version":"v3.3.0.387_25040148","release_summary":null,"release_url":"https://reolink.com/download-center/","skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/reolink/icon.png","friendly_name":"RDWNET Reolink Hub Firmware","supported_features":21},"last_changed":"2025-06-10T22:11:18.691724+00:00","last_reported":"2025-06-10T22:11:18.691465+00:00","last_updated":"2025-06-10T22:11:18.691724+00:00","context":{"id":"01JXDYBNH3QC0VBH1883P6EGGP","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T22:11:22.329510+00:00"
     }
   ]
 }
