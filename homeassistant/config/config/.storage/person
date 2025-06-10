@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "ryan_white",
+        "name": " Ryan White",
+        "user_id": "34f43e9f2f0c42c68a6b943b149319ec",
+        "device_trackers": []
+      },
+      {
+        "id": "opal_white",
+        "name": "Opal White",
+        "device_trackers": [],
+        "user_id": "c043ee9bd52f4a419deedf997bc707a4",
+        "picture": null
+      }
+    ]
+  }
+}

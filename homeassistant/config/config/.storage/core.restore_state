@@ -6,7 +6,22 @@
     {
       "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-06-10T21:39:52.682075+00:00","last_reported":"2025-06-10T21:39:52.682075+00:00","last_updated":"2025-06-10T21:39:52.682075+00:00","context":{"id":"01JXDWJ3QA34XRBMAK7QCY4KYP","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-06-10T21:39:54.685868+00:00"
+      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+    },
+    {
+      "state": {"entity_id":"person.ryan_white","state":"unknown","attributes":{"editable":true,"id":"ryan_white","device_trackers":[],"user_id":"34f43e9f2f0c42c68a6b943b149319ec","friendly_name":" Ryan White"},"last_changed":"2025-06-10T21:44:20.126875+00:00","last_reported":"2025-06-10T21:44:20.127096+00:00","last_updated":"2025-06-10T21:44:20.126875+00:00","context":{"id":"01JXDWT8WYQ3KD4NFFWMYGYTGF","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-06-10T21:44:41.143788+00:00","last_reported":"2025-06-10T21:44:41.143907+00:00","last_updated":"2025-06-10T21:44:41.143788+00:00","context":{"id":"01JXDWTXDQPRBMRANZ2MA4ZNN3","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T21:54:54.686238+00:00"
+    },
+    {
+      "state": {"entity_id":"person.opal_white","state":"unknown","attributes":{"editable":true,"id":"opal_white","device_trackers":[],"user_id":"c043ee9bd52f4a419deedf997bc707a4","friendly_name":"Opal White"},"last_changed":"2025-06-10T21:45:51.880013+00:00","last_reported":"2025-06-10T21:45:51.880301+00:00","last_updated":"2025-06-10T21:45:51.880013+00:00","context":{"id":"01JXDWX2G8J89C6432D8DR4R7Z","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-06-10T21:54:54.686238+00:00"
     }
   ]
 }

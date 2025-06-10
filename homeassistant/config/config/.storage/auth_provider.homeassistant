@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth_provider.homeassistant",
+  "data": {
+    "users": [
+      {
+        "username": "ryan",
+        "password": "JDJiJDEyJGNVcEt3UU1UWFlqSm1zNm9rcFAvMS5QYlRvMEUvYXJFU0RhLkI0dW5pdFBNMElxWFlXL2pt"
+      },
+      {
+        "username": "opal",
+        "password": "JDJiJDEyJEF1N1pzN2M4N3B0dkdTOER6VG02aS56OWhWSkVlSVlOSnk4cUpmUnc1Wk5CbTFOcUFTbUlh"
+      }
+    ]
+  }
+}

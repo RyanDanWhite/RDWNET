@@ -25,6 +25,28 @@
         "name": "Home Assistant Cast",
         "system_generated": true,
         "local_only": false
+      },
+      {
+        "id": "34f43e9f2f0c42c68a6b943b149319ec",
+        "group_ids": [
+          "system-admin"
+        ],
+        "is_owner": true,
+        "is_active": true,
+        "name": " Ryan White",
+        "system_generated": false,
+        "local_only": false
+      },
+      {
+        "id": "c043ee9bd52f4a419deedf997bc707a4",
+        "group_ids": [
+          "system-users"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "Opal White",
+        "system_generated": false,
+        "local_only": false
       }
     ],
     "groups": [
@@ -41,7 +63,26 @@
         "name": "Read Only"
       }
     ],
-    "credentials": [],
+    "credentials": [
+      {
+        "id": "2b9afcb71dd341e98d9dd2eaa4feeeb9",
+        "user_id": "34f43e9f2f0c42c68a6b943b149319ec",
+        "auth_provider_type": "homeassistant",
+        "auth_provider_id": null,
+        "data": {
+          "username": "ryan"
+        }
+      },
+      {
+        "id": "98284dd1eab945d998aaf117ac41496d",
+        "user_id": "c043ee9bd52f4a419deedf997bc707a4",
+        "auth_provider_type": "homeassistant",
+        "auth_provider_id": null,
+        "data": {
+          "username": "opal"
+        }
+      }
+    ],
     "refresh_tokens": [
       {
         "id": "398c626c2f474507b315f3a869c1424e",
@@ -75,6 +116,23 @@
         "last_used_ip": null,
         "expire_at": null,
         "credential_id": null,
+        "version": "2025.5.3"
+      },
+      {
+        "id": "833e17dbb77f4268842a1a35a7b7ebac",
+        "user_id": "34f43e9f2f0c42c68a6b943b149319ec",
+        "client_id": "http://localhost:8123/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-06-10T21:44:49.066479+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "9ae929bd23430bcbfa2b89cdcc43d0a6777980d507c0ea5804e5391bbf7eef95eec65286e7891dac0a71daa31eed05e7a1e90a59a913529dac778bcb0dd9d376",
+        "jwt_key": "c2ba2fca477fc50ca5a79134ef3e19825b7e94846701f1d2fbaa2b03ae04bf17811f39cc2e87858c767b169468f933416400d78eaa3d670d6e39d11f764f9b80",
+        "last_used_at": "2025-06-10T21:44:49.066514+00:00",
+        "last_used_ip": "::1",
+        "expire_at": 1757367889.066514,
+        "credential_id": "2b9afcb71dd341e98d9dd2eaa4feeeb9",
         "version": "2025.5.3"
       }
     ]

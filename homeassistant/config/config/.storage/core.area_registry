@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "minor_version": 8,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "living_room",
+        "labels": [],
+        "name": "Living Room",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T21:44:20.127239+00:00",
+        "modified_at": "2025-06-10T21:44:20.127242+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "kitchen",
+        "labels": [],
+        "name": "Kitchen",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T21:44:20.127334+00:00",
+        "modified_at": "2025-06-10T21:44:20.127337+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "bedroom",
+        "labels": [],
+        "name": "Bedroom",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T21:44:20.127403+00:00",
+        "modified_at": "2025-06-10T21:44:20.127405+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "front_porch",
+        "labels": [],
+        "name": "Front Porch",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T22:03:37.079205+00:00",
+        "modified_at": "2025-06-10T22:03:37.079207+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "foyer",
+        "labels": [],
+        "name": "Foyer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T22:03:37.079432+00:00",
+        "modified_at": "2025-06-10T22:03:37.079433+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "office",
+        "labels": [],
+        "name": "Office",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T22:03:37.079964+00:00",
+        "modified_at": "2025-06-10T22:03:37.079965+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "1st_floor_hallway",
+        "labels": [],
+        "name": "1st floor Hallway",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-06-10T22:03:37.080466+00:00",
+        "modified_at": "2025-06-10T22:03:37.080467+00:00"
+      }
+    ]
+  }
+}
