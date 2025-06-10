@@ -3,7 +3,7 @@ services:
     container_name: homeassistant
     image: ghcr.io/home-assistant/home-assistant:stable
     volumes:
-      - ./config:/config
+      - /home/ryan/RDWNET/homeassistant/config:/config
     environment:
       - TZ=America/Detroit
     network_mode: host

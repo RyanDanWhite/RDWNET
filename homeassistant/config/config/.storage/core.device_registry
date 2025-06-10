@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "minor_version": 9,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {"area_id":null,"config_entries":["01JXDWJ5DZP3RWAY6H5ZACYZWQ"],"config_entries_subentries":{"01JXDWJ5DZP3RWAY6H5ZACYZWQ":[null]},"configuration_url":null,"connections":[],"created_at":"2025-06-10T21:39:54.433630+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"c06c02c21e7f93b616d6423601b2168a","identifiers":[["sun","01JXDWJ5DZP3RWAY6H5ZACYZWQ"]],"labels":[],"manufacturer":null,"model":null,"model_id":null,"modified_at":"2025-06-10T21:39:54.433670+00:00","name_by_user":null,"name":"Sun","primary_config_entry":"01JXDWJ5DZP3RWAY6H5ZACYZWQ","serial_number":null,"sw_version":null,"via_device_id":null},
+      {"area_id":null,"config_entries":["01JXDWJ5P9K4K07JC2ZDYPFYPJ"],"config_entries_subentries":{"01JXDWJ5P9K4K07JC2ZDYPFYPJ":[null]},"configuration_url":"homeassistant://config/backup","connections":[],"created_at":"2025-06-10T21:39:54.738318+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"c0e86e405d976e4d148b6c343ec28815","identifiers":[["backup","backup_manager"]],"labels":[],"manufacturer":"Home Assistant","model":"Home Assistant Backup","model_id":null,"modified_at":"2025-06-10T21:39:54.738358+00:00","name_by_user":null,"name":"Backup","primary_config_entry":"01JXDWJ5P9K4K07JC2ZDYPFYPJ","serial_number":null,"sw_version":"2025.5.3","via_device_id":null},
+      {"area_id":null,"config_entries":["01JXDWJ7BNJAZTJQVZTAXQHVC3"],"config_entries_subentries":{"01JXDWJ7BNJAZTJQVZTAXQHVC3":[null]},"configuration_url":null,"connections":[],"created_at":"2025-06-10T21:39:56.750169+00:00","disabled_by":null,"entry_type":null,"hw_version":null,"id":"47c3f5374959d32653cb6e4186150236","identifiers":[["cast","3f9b8e36ba16f1f7cc68f173d6952cce"]],"labels":[],"manufacturer":"Vizio","model":"D24f-F1","model_id":null,"modified_at":"2025-06-10T21:39:56.750202+00:00","name_by_user":null,"name":"office","primary_config_entry":"01JXDWJ7BNJAZTJQVZTAXQHVC3","serial_number":null,"sw_version":null,"via_device_id":null}
+    ],
+    "deleted_devices": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "minor_version": 5,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {"created_at":"2025-06-10T21:39:54.431595+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"sun","entry_id":"01JXDWJ5DZP3RWAY6H5ZACYZWQ","minor_version":1,"modified_at":"2025-06-10T21:39:54.431599+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"import","subentries":[],"title":"Sun","unique_id":null,"version":1},
+      {"created_at":"2025-06-10T21:39:54.687474+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"bluetooth","entry_id":"01JXDWJ5NZN5AB6DA3DG65AYAJ","minor_version":1,"modified_at":"2025-06-10T21:39:54.687476+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"integration_discovery","subentries":[],"title":"Ajoho Enterprise Co., Ltd. None (00:26:83:2F:69:FD)","unique_id":"00:26:83:2F:69:FD","version":1},
+      {"created_at":"2025-06-10T21:39:54.689946+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"go2rtc","entry_id":"01JXDWJ5P1CG1NYH69Y4A5QTMX","minor_version":1,"modified_at":"2025-06-10T21:39:54.689949+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"system","subentries":[],"title":"go2rtc","unique_id":null,"version":1},
+      {"created_at":"2025-06-10T21:39:54.698008+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"backup","entry_id":"01JXDWJ5P9K4K07JC2ZDYPFYPJ","minor_version":1,"modified_at":"2025-06-10T21:39:54.698010+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"system","subentries":[],"title":"Backup","unique_id":null,"version":1},
+      {"created_at":"2025-06-10T21:39:54.979725+00:00","data":{},"disabled_by":null,"discovery_keys":{"zeroconf":[{"domain":"zeroconf","key":["_meshcop._udp.local.","eero_thread #8B80._meshcop._udp.local."],"version":1}]},"domain":"thread","entry_id":"01JXDWJ5Z3P2VE7NQ12W94P95V","minor_version":1,"modified_at":"2025-06-10T21:39:54.979730+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"zeroconf","subentries":[],"title":"Thread","unique_id":null,"version":1},
+      {"created_at":"2025-06-10T21:39:56.405930+00:00","data":{"ignore_cec":[],"known_hosts":[],"user_id":"54a78b35bcb8464ea6d01017b46e52bf","uuid":[]},"disabled_by":null,"discovery_keys":{"zeroconf":[{"domain":"zeroconf","key":["_googlecast._tcp.local.","D24f-F1-3f9b8e36ba16f1f7cc68f173d6952cce._googlecast._tcp.local."],"version":1}]},"domain":"cast","entry_id":"01JXDWJ7BNJAZTJQVZTAXQHVC3","minor_version":1,"modified_at":"2025-06-10T21:39:56.408318+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"zeroconf","subentries":[],"title":"Google Cast","unique_id":"cast","version":1}
+    ]
+  }
+}
