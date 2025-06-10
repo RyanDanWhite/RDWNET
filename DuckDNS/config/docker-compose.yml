@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  duckdns:
+    image: duckdns/duckdns
+    restart: always
+    environment:
+      - DUCKDNSTOKEN=c90b5fce-b959-4281-9410-368a50a0ee96
+      - DUCKDNSDOMAIN=rdwnet.duckdns.org
+      - DUCKDNSINTERVAL=600 # Update every 10 minutes
+    volumes:
+      - ./duckdns:/config # Optionally mount for persistent configuration
